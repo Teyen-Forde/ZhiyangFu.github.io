@@ -1,8 +1,6 @@
-./index.md
 ./style.css
-./style_notthebee.css
+./.ssgignore
+./CV_latest.pdf
 ./reports.html
 ./index.html
-./index_example.html
-./style_laurent.css
-./reports.md
+./favicon.ico
